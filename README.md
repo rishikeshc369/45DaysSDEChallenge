@@ -8,6 +8,7 @@ This repo is to challege myself on solving DSA Problems
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,5 @@ This repo is to challege myself on solving DSA Problems
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

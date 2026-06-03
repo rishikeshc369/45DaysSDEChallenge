@@ -8,6 +8,7 @@ This repo is to challege myself on solving DSA Problems
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -27,8 +28,10 @@ This repo is to challege myself on solving DSA Problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rishikeshc369/45DaysSDEChallenge/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

@@ -4,8 +4,8 @@ class Solution {
         int sum = 0;
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
-            mxi = Math.max(mxi, sum);
-            sum = Math.max(sum, 0);
+            mxi = sum > mxi ? sum : mxi;
+            sum = sum < 0 ? 0 : sum;
         }
         return mxi;
     }
